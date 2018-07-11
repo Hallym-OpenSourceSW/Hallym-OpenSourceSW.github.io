@@ -21,6 +21,8 @@
 * [Open Source Software Learning Community](http://olc.kr/main/index.jsp)
 > 오픈소스SW 관련 유익한 동영상 강의를 무료로 들을 수 있습니다! 너무 좋아요! ^^
 
+* * *
+
 **오픈 소스 SW 관련 기관 / 포탈**
 * [오픈소스 포털](https://www.oss.kr/)
 > 최신 행사 및 공개SW 소식을 볼수 있답니다!
