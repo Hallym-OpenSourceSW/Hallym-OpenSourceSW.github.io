@@ -4,6 +4,7 @@
 ![강재욱](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/dr_kang.jpg)
 
 2. 5월 28일(월요일): "오픈소스 하드웨어", 오명훈 박사 (한국전자통신연구원, ETRI) 
+![강재욱](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/dr_oh.jpg)
 
 3. 5월 30일(수요일): "오픈소스 SW 개요 및 전망", 심호성 상근부회장 (한국공개소프트웨어협의회, KOSSA) 
 ![강재욱](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/kossa.jpg)
@@ -12,3 +13,4 @@
 ![강재욱](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/samsung_ko.jpg)
 
 5. 6월 21일(목요일): "SW 교육 및 연구에서 오픈소스 SW 활용 및 오픈소스의 미래", 손기성 수석연구원 (삼성전자)
+![강재욱](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/samsung_son.jpg)
