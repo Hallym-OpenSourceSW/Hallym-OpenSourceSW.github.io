@@ -1,5 +1,5 @@
 # Hallym-OpenSourceSW.github.io
-**한림대학교 [오픈소스 SW](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/whatisOSS.md) 교육센터**
+**한림대학교 [오픈소스 SW](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/WhatisOSS.md) 교육센터**
 
 한림대학교 소프트웨어 중심대학 사업단 산하 오픈소스 소프트웨어 교육 센터 (Hallym OSS Education Center)
 
