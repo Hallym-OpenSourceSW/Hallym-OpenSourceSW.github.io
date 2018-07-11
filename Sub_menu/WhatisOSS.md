@@ -13,3 +13,8 @@
 5. [기업관리/활용방안.](https://www.youtube.com/watch?v=W2aDQox4KJ4&t=62s) (유튜브)
 
 ![오픈소스 SW란](http://img.youtube.com/vi/K7qpiEN4DRI/0.jpg)
+
+
+* * *
+* * *
+오픈 소스 SW 관련 교육 자료 링크
