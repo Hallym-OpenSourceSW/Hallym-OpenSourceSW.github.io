@@ -2,6 +2,7 @@
 
 **Open PSP : Github 중심의 Project-Syllabus-Portfolio 통합형 오픈소스 생태계구축**
 
+![Open_PSP](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/open_psp.JPG)
 
   1. **프로젝트 (Project) 개방**: 종합 설계 프로젝트 및 졸업 프로젝트를 Github에 개방하고 문서화를 진행하는 것을 필수로 지정하고 이후 오픈 소스 SW 관련 수업에서 사례 및 실습예제로써 활용함으로써 대학 내에서 개발된 우수 오픈 소스 SW를 저학년 학생들에게 홍보하고 기여하도록 유도함.  
     - 고학년 및 졸업자의 오픈소스 SW 과제를 지속적으로 학생들에게 개방하고 새로운 학생들이 이전 개발된 우수 과제에 기여하게 하여 기여 절차에 대해 학습할 수 있도록 함
