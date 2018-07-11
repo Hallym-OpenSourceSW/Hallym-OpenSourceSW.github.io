@@ -10,7 +10,9 @@
          * 내부 우수 오픈소스 SW의 연속적 질 향상을 위하여 전공 트랙 교수 및 오픈소스 SW 교육센터가 내부 우수 오픈소스 SW 과제를 관리함
       * 우수 오픈소스 SW 과제의 경우 졸업 후에도 자신이 개발에 참여한 SW의 관리자와 멘토로서 역할 할 수 있도록 보상체계를 구성하고 지원함
       * 2018년 캡스톤 결과 학생 프로젝트   
-         * 예) [캡스톤OSS](https://github.com/YONGEEEE/Bluetooth-based-handicapped-parking-area-system)블루투스 비콘기반 장애인 주차장 관리 시스템
+         * 예) [캡스톤OSS:블루투스 비콘기반 장애인 주차장 관리 시스템](https://github.com/YONGEEEE/Bluetooth-based-handicapped-parking-area-system)
+         * 예) [캡스톤OSS:Smart DoorLock](https://github.com/jeonggunlee/Capstone-Design/blob/master/DitialDoorLock/README.md)
+         * 예) [캡스톤OSS:Weather_box](https://github.com/jeonggunlee/Capstone-Design/blob/master/WeatherBox/README.md)
 
    2. **교과목 해설서 (Syllabus) 개방**: 교수의 경우 교과목 해설서를 Github에서 개발하여 개방
       * 교과목 해설서를 Github에 개방하고 실습 예제 코드 및 과거 우수 프로젝트 과제를 Github 링크를 통하여 관리함 (실습 동영상 강좌 등이 링크 되도록 지원하고 향후 MOOC로 확대될 수 있도록 지원)
