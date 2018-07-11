@@ -5,7 +5,7 @@
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 활성화 전략**
   - [Open Project-Symllabus-Portfolio 생태계 구축](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/open_psp.md)
-  - 오픈소스SW 활용 실습 수업 진행
+  - [오픈소스SW 활용 실습 수업 진행](https://github.com/Hallym-OpenSourceSW/HLSWCourses)
   - [오픈소스SW 개발 중심의 석/박사 과정 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_grad.md)
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
