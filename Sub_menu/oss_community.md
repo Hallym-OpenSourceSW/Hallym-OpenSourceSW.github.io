@@ -3,8 +3,10 @@
 ### 오픈소스 SW 동아리 워크샵 지원
 
 ![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160611118.jpg)
+![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160613820.jpg)
+![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160614386.jpg)
+
 
 ### 하계 방중 소프트웨어 멘토링 지원
-
-
-
+![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160710291.jpg)
+![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160710781.jpg)
