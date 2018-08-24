@@ -25,4 +25,5 @@
 
 * * *
 
-** [Git과 Github에 관한 짧고도 재밌는 동영상](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
+**오픈소스공유 자료**
+   - [Git과 Github에 관한 짧고도 재밌는 동영상](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
