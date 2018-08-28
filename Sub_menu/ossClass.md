@@ -27,3 +27,17 @@
    - Github 활용 필수 교과목
       - 소프트웨어 캡스톤 디자인 1 (전공필수), 2
       - C/C++ 프로그래밍 프로젝트 / JAVA 프로그래밍 프로젝트
+      
+      
+* * *
+* * *
+비전공자를 위한 오픈소스 SW 프로젝트 교과목
+
+1. **창의코딩 스마트앱** : 코딩 초보자가 쉽게 접근할 수 있는 블록식 [오픈소스](http://appinventor.mit.edu/appinventor-sources/) SW인 [앱인벤터](http://appinventor.mit.edu/explore/index-2.html)를 이용하여 스마트폰 앱을 작성
+>  - 세계의 많은 학생들이 자신이 만든 [앱을 소스와 함께 공개](http://appinventor.mit.edu/explore/resources.html)
+>  - 2018년 1학기 33명 수강
+
+1. **창의코딩 사물인터넷** : 오픈소스 SW/HW인 아두이노를 활용한 다양한 센서 활용 및 IoT 제작 프로젝트 진행
+>  -  2018년 1학기 29명 수강
+
+
