@@ -28,4 +28,6 @@
 **오픈소스공유 자료**
    - [Git과 Github에 관한 짧고도 재밌는 동영상](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX) by 
 코드스쿼드
+   - [누구나 쉽게 이해할 수 있는 Git 에 입문](https://backlog.com/git-tutorial/kr/)
+   
 
