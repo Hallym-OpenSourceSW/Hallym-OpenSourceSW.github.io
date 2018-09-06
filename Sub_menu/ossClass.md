@@ -14,7 +14,7 @@
 >  - 이슈 트래킹 도구 (JIRA, RedMind, BugZillar, 등)
 >  - Code Review 관리 도구 (Gerrit: 현재 Tizen이 사용)
 
-3. **오픈소스 Linux 실무** : 2018년 2학기 개설
+3. **오픈소스 Linux 실무** : [2018년 2학기 개설](https://github.com/K-DH/OpenSourceLinux_2018_Fall)
 >(1학년/2학점, 실습 중심 교과목): 오픈 소스 SW 활용을 용이하게 하고 Linux 개발 플랫폼에 보다 익숙하도록 교육하기 위한 활용 중심의 교과목을 제공함
 
 4. **SW 실전영어 II**: 2019년 2학기 개설
