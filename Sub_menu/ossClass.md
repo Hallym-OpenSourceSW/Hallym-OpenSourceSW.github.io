@@ -30,7 +30,12 @@
    - Github 활용 필수 교과목
       - 소프트웨어 캡스톤 디자인 1 (전공필수), 2
       - C/C++ 프로그래밍 프로젝트 / JAVA 프로그래밍 프로젝트
-      
+   - 프로젝트 Github 
+       * 2018년 1학기 소프트웨어 캡스톤 결과 학생 프로젝트   
+         * 예) [캡스톤OSS:블루투스 비콘기반 장애인 주차장 관리 시스템](https://github.com/YONGEEEE/Bluetooth-based-handicapped-parking-area-system)
+         * 예) [캡스톤OSS:Smart DoorLock](https://github.com/jeonggunlee/Capstone-Design/blob/master/DitialDoorLock/README.md)
+         * 예) [캡스톤OSS:Weather_box](https://github.com/jeonggunlee/Capstone-Design/blob/master/WeatherBox/README.md)
+         * 예) [캡스톤OSS:Clap-to-Switch](https://github.com/cobaltp/clap-to-switch)
       
 * * *
 * * *
