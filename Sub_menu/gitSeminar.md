@@ -18,3 +18,13 @@
 장소: 1157
 
 [찾아가는 Git/Github 세미나 자료](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/GitSeminar.pdf)
+
+*  *  *
+
+* 찾아가는 Git/Github 세미나 동영상 자료.
+    - [찾아가는 Git/Github 세미나 1](https://www.youtube.com/watch?v=vbLNkYJX1uk&t=60s)
+    - [찾아가는 Git/Github 세미나 2](https://www.youtube.com/watch?v=iJp-bnSnoS8&t=614s)
+    - [찾아가는 Git/Github 세미나 3](https://www.youtube.com/watch?v=ttNG9Eu3Tx0&t=4s)
+    - [찾아가는 Git/Github 세미나 4](https://www.youtube.com/watch?v=Qu1K2R8FIBA&t=5s)
+    - [찾아가는 Git/Github 세미나 5](https://www.youtube.com/watch?v=RCHHmbhcIow&t=2s)
+    - [찾아가는 Git/Github 세미나 6](https://www.youtube.com/watch?v=JRZ76ndkV7Q&t=25s) 
