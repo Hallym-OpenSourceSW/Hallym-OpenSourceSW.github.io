@@ -29,3 +29,5 @@
 * 3차 - 고영웅 교수님
 일정: 9월 11일(화요일) 오후 1시.
 장소: 1111
+
+[찾아가는 Git/Github 세미나 자료](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/GitSeminar.pdf)
