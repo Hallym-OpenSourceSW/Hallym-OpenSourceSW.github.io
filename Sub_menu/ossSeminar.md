@@ -17,7 +17,7 @@
 
 
 ## 찾아가는 Git/Github 세미나
-![이정근](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/gitseminar.JPG)
+![이정근](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/gitSeminar.png)
 * 1차 - 김유섭 교수님
 일정: 9월 10일(월요일) 오후 4시
 장소: 1226
