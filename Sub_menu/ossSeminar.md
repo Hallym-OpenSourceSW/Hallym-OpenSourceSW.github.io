@@ -15,4 +15,7 @@
 5. 6월 21일(목요일): "SW 교육 및 연구에서 오픈소스 SW 활용 및 오픈소스의 미래", 손기성 수석연구원 (삼성전자)
 ![손기성](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/samsung_son.jpg)
 
+5. 9월 10일(월요일): "4차 산업혁명과 오픈소스 기반 머신러닝 기술", 최권택 교수 (강남대학교)
+![최권택](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/20180911.jpg)
+
 
