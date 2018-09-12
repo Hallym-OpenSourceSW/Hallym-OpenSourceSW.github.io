@@ -35,6 +35,6 @@
 
 *  *  *
 
-[한림대학교 소프트웨어 중심대학 사업단 홈페이지](http://hlsw.hallym.ac.kr/)
-[한림대학교 소프트웨어 중심대학 페이스북 페이지](https://www.facebook.com/HALLYMSOFTWARE/)
+- [한림대학교 소프트웨어 중심대학 사업단 홈페이지](http://hlsw.hallym.ac.kr/)
+- [한림대학교 소프트웨어 중심대학 페이스북 페이지](https://www.facebook.com/HALLYMSOFTWARE/)
 
