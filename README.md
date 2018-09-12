@@ -31,5 +31,10 @@
    - [Git과 Github에 관한 짧고도 재밌는 동영상](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX) by 
 코드스쿼드
    - [누구나 쉽게 이해할 수 있는 Git 에 입문](https://backlog.com/git-tutorial/kr/)
-   
+
+
+*  *  *
+
+[한림대학교 소프트웨어 중심대학 사업단 홈페이지](http://hlsw.hallym.ac.kr/)
+[한림대학교 소프트웨어 중심대학 페이스북 페이지](https://www.facebook.com/HALLYMSOFTWARE/)
 
