@@ -23,7 +23,7 @@
 
 * 4차 -  스마트 IoT 캡스톤디자인(박지현교수님: 10명)
 일정: 9월 18일(화요일) 오후 2시(7교시).
-장소: 미정
+장소: 산학협력관 3층 22302호실
 
 [찾아가는 Git/Github 세미나 자료](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/GitSeminar.pdf)
 
