@@ -28,7 +28,7 @@
 일정: 9월 18일(화요일) 오후 2시(7교시).
 장소: 산학협력관 3층 22302호실
 
-[찾아가는 Git/Github 세미나 자료](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/GitSeminar.pdf) [SlideShare](https://www.slideshare.net/jeonggunlee/gitgithub-seminar)
+[찾아가는 Git/Github 세미나 자료](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/GitSeminar.pdf) -- [SlideShare](https://www.slideshare.net/jeonggunlee/gitgithub-seminar)
 
 *  *  *
 
