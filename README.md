@@ -14,7 +14,8 @@
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md)
   - [찾아가는 Git/Github 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md)
   - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md)
-  - 오픈소스 SW Contributon 진행
+  - 오픈소스 중심의 **"한림 SW 해커톤"** 진행
+  - 오픈소스 활용 유도를 위한 **"한림 SW 공모전"** 진행
   - 소프트웨어 빌리지 오픈소스 SW 특강 (R, Linux, Python, Tensorflow, 앱인벤터)
 
 **오픈소스 SW 교육센터 Github**: [Github.com/Hallym-OpenSourceSW](Github.com/Hallym-OpenSourceSW)
