@@ -29,7 +29,7 @@
 * * *
 
 **오픈소스공유 자료**
-   - [한림 아가는 Git/Github 세미나 - 동영상자료](https://www.youtube.com/playlist?list=PLKZ28p5qq0DFioGVK9Og8VTmHmmosrb8g)
+   - [한림 찾아가는 Git/Github 세미나 - 동영상자료](https://www.youtube.com/playlist?list=PLKZ28p5qq0DFioGVK9Og8VTmHmmosrb8g)
    - [Git과 Github에 관한 짧고도 재밌는 동영상](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX) by 
 코드스쿼드
    - [누구나 쉽게 이해할 수 있는 Git 에 입문](https://backlog.com/git-tutorial/kr/)
