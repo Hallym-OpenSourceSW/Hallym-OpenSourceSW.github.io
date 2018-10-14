@@ -5,7 +5,7 @@
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 활성화 전략**
   - [Open Project-Syllabus-Portfolio 생태계 구축](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/open_psp.md)
-  - [오픈소스SW 활용 실습 수업 진행](https://github.com/Hallym-OpenSourceSW/HLSWCourses) (2018뇬 2학기 - 총 23과목에서 활용)
+  - [오픈소스SW 활용 실습 수업 진행](https://github.com/Hallym-OpenSourceSW/HLSWCourses) (2018년 2학기 - 총 23과목에서 활용)
   - [오픈소스SW 개발 중심의 석/박사 과정 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_grad.md)
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
@@ -13,7 +13,7 @@
   - [오픈소스 SW 활용 산학 프로젝트 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md) (현재 6회)
   - [찾아가는 Git/Github 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
-  - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md) (동아리 2개ㅣ 씨애랑 & 미친러닝)
+  - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md) (동아리 2개: 씨애랑 & 미친러닝)
   - [오픈소스 중심의 **"한림 SW 해커톤"** 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/osshack.md) ([한림 SW 해커톤](https://sites.google.com/view/hlsw-hackathon/home))
   - 오픈소스 활용 유도를 위한 **"한림 SW 공모전"** 진행
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강 (R, Linux, Python, Tensorflow, 앱인벤터) --> [링크](http://hlsw.hallym.ac.kr/board/course)
