@@ -9,7 +9,7 @@
   - [오픈소스SW 개발 중심의 석/박사 과정 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_grad.md)
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
-  - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md) (전공 2과목, 비전공자 2과목)
+  - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md) (전공 2과목, 비전공자 2과목, 교재개발 2건)
   - [오픈소스 SW 활용 산학 프로젝트 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md) (현재 7회)
   - [찾아가는 Git/Github 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
