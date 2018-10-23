@@ -16,3 +16,8 @@
      
 ![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160710291.jpg)
 ![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/KakaoTalk_20180813_160710781.jpg)
+
+
+
+### 소프트웨어 카펜트리 워크숍 (10월 27일-28일)
+https://statkclee.github.io/2018-10-27-hallym/?fbclid=IwAR0MOtAW5EAYyg0VCzGXV5njSDntFtRk65ZambRti-lwjfh28LI4aFv2WLc
