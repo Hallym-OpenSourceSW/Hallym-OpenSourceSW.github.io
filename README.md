@@ -18,7 +18,9 @@
   - [오픈소스 중심의 **"한림 SW 해커톤"** 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/osshack.md) ([한림 SW 해커톤](https://sites.google.com/view/hlsw-hackathon/home))
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](http://hlsw.hallym.ac.kr/post/161)"** 진행
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강 (R, Linux, Python, Tensorflow, 앱인벤터) --> [링크](http://hlsw.hallym.ac.kr/board/course)
-
+  - 외부 오픈소스 커뮤니티 활동
+  
+  
 **오픈소스 SW 교육센터 Github**: [Github.com/Hallym-OpenSourceSW](Github.com/Hallym-OpenSourceSW)
 
 **News**
