@@ -13,7 +13,7 @@
   - [오픈소스 SW 활용 산학 프로젝트 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md) (현재 7회)
   - [찾아가는 Git/Github 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
-  - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/kossLab.md)
+  - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/kossLab.md) (3회)
   - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md)
      - 오픈소스 SW 동아리 2개: 씨애랑 & 미친러닝
      - 오픈소스 워크숍, 소프트웨어 카펜트리 워크숍, 한림 데이터랩 (융합전공 커뮤니티)
