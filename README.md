@@ -13,12 +13,13 @@
   - [오픈소스 SW 활용 산학 프로젝트 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md) (현재 7회)
   - [찾아가는 Git/Github 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
+  - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나]()
   - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md)
      - 오픈소스 SW 동아리 2개: 씨애랑 & 미친러닝
      - 오픈소스 워크숍, 소프트웨어 카펜트리 워크숍, 한림 데이터랩 (융합전공 커뮤니티)
   - [오픈소스 중심의 **"한림 SW 해커톤"** 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/osshack.md) ([한림 SW 해커톤](https://sites.google.com/view/hlsw-hackathon/home))
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](http://hlsw.hallym.ac.kr/post/161)"** 진행
-  - Github를 통한 오픈 Portfolio Contest
+  - [Github를 통한 오픈 Portfolio Contest](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
      - Github와 친숙해지기 위해 이력서를 Github에 올리고 평가받는 콘테스트 (한림 소프트웨어 위크에 진행)
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강 (R, Linux, Python, Tensorflow, 앱인벤터) --> [링크](http://hlsw.hallym.ac.kr/board/course)
   - 외부 오픈소스 커뮤니티 활동
