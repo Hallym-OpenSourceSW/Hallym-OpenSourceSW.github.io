@@ -7,6 +7,7 @@
   - [Open Project-Syllabus-Portfolio 생태계 구축](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/open_psp.md)
   - [오픈소스SW 활용 실습 수업 진행](https://github.com/Hallym-OpenSourceSW/HLSWCourses) (2018년 2학기 - 총 23과목에서 활용)
   - [오픈소스SW 개발 중심의 석/박사 과정 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_grad.md)
+  - 오픈소스 SW 교육 및 기여 장려를 위한 오픈소스SW 활동 교수 업적화
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
   - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md) (전공 2과목, 비전공자 2과목, 교재개발 2건)
