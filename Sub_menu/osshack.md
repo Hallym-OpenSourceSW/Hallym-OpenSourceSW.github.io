@@ -3,8 +3,6 @@
 ### [한림 SW 해커톤 웹 페이지](https://sites.google.com/view/hlsw-hackathon/home)
 
 *  *  *
-![한림 SW 해커톤](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/Poster2.png)
-*  *  *
 대회 참가 규칙
 
     - “제시된 주제에 맞는 소프트웨어 아이디어 개발 및 프로토타이핑 개발” (완전한 구현이 아니더라고 전체적인 아이디어를 명확히 설명하고 아이디어에 사용되는 핵심 기술을 간략히 구현)
@@ -16,5 +14,10 @@
 *  *  *
 
   - Project Github Sites
-     - https://github.com/BJ-Lim/hlsw-hackathon
+  
+     - **dangling else**: https://github.com/BJ-Lim/hlsw-hackathon
      -
+
+
+*  *  *
+![한림 SW 해커톤](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/Poster2.png)
