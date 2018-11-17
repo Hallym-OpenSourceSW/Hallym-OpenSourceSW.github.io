@@ -13,3 +13,8 @@
     - 다른 경진대회/전시회에서 수상한 작품은 평가대상에서 제외됨.
 
 
+*  *  *
+
+  - Project Github Sites
+     - https://github.com/BJ-Lim/hlsw-hackathon
+     -
