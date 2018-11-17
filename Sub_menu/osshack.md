@@ -16,7 +16,7 @@
   - Project Github Sites
   
      - **dangling else**: https://github.com/BJ-Lim/hlsw-hackathon
-     -
+     - **카페 좌석 인식 시스템**: https://github.com/jjeamin/Hackathon
 
 
 *  *  *
