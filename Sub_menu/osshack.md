@@ -16,17 +16,29 @@
   - **Project Github Sites**
   
      - **dangling else**: https://github.com/BJ-Lim/hlsw-hackathon
+        - 임병준, 이헌우, 염희수
      - **IT (그것)**: https://github.com/jjeamin/Hackathon
+        - 정재민, 정대민, 이상욱, 김형훈, 김경민
      - **팀명이름**: https://github.com/DorPhin-pc/newtaxi1 
-     - **기아들**: https://github.com/426Hyun/Example 
+        - 박찬영, 박진홍, 이화준, 최홍석
+     - **기아들**: https://github.com/426Hyun/Example
+        - 김기현, 전세일, 임채환, 김일도, 박경덕
      - **피터팬**: https://github.com/SUWANKIM/peterpen
-     - **한수배우러왔습니다**: https://github.com/yesman9692/Hackerthon 
+        - 김수완, 박소연, 류요선, 노재영
+     - **한수배우러왔습니다**: https://github.com/yesman9692/Hackerthon
+        - 고정환, 이수형, 양원석, 지현규, 한지용
      - **디지털인문예술**: https://github.com/KIMDOKYOUNG/Digital-Arts-Humanities
+        - 김도경, 정예찬, 정수지, 고민성, 김재석
      - **곽권박**: https://github.com/kcw32/Hackerton
-     - **늦바람**: https://github.com/dhakdlrkt3/NFC_Hack.git 
-     - **씨애랑**: https://github.com/PowerSH/HackerTrain 
+        - 곽찬우, 권성준, 박성진
+     - **늦바람**: https://github.com/dhakdlrkt3/NFC_Hack.git
+        - 이민준, 정균모, 유재혁, 이병호
+     - **씨애랑**: https://github.com/PowerSH/HackerTrain
+        - 조명근, 최승명, 박상훈, 박승훈
      - **학생지원팀**: https://github.com/planet916/TPVoice 
+        - 이종학, 최정명, 정용석, 임승현, 조은희
      - **꿀잠**: https://github.com/KIMGT/HoneySleep
+        - 최상용, 이상우, 전수현, 김기태
 
 
 *  *  *
