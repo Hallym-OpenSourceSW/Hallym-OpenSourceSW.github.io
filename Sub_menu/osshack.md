@@ -1,7 +1,7 @@
 ## 오픈소스 기반 한림 SW 해커톤
 
 ### [한림 SW 해커톤 웹 페이지](https://sites.google.com/view/hlsw-hackathon/home)
-
+### [해커톤 진행 모습을 담은 영상](https://www.youtube.com/watch?v=-RUGBRfYrM4)
 *  *  *
 대회 참가 규칙
 
