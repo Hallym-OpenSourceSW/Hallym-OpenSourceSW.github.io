@@ -22,11 +22,25 @@
      - **피터팬**: https://github.com/SUWANKIM/peterpen
      - **한수배우러왔습니다**: https://github.com/yesman9692/Hackerthon 
      - **디지털인문예술**: https://github.com/KIMDOKYOUNG/Digital-Arts-Humanities
-     - **곽권곽**: https://github.com/kcw32/Hackerton
+     - **곽권박**: https://github.com/kcw32/Hackerton
      - **늦바람**: https://github.com/dhakdlrkt3/NFC_Hack.git 
      - **씨애랑**: https://github.com/PowerSH/HackerTrain 
      - **학생지원팀**: https://github.com/planet916/TPVoice 
      - **꿀잠**: https://github.com/KIMGT/HoneySleep
+
+
+*  *  *
+
+## 수상내역
+
+   - 대상: 씨애랑
+   - 우수상: 
+       - 팀명이름
+       - dangling else
+   - 장려상:
+       - 디지털인문예술
+       - 학생지원팀
+       - 곽권박
 
 
 *  *  *
