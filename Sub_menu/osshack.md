@@ -13,7 +13,7 @@
 
 *  *  *
 
-  - Project Github Sites
+  - **Project Github Sites**
   
      - **dangling else**: https://github.com/BJ-Lim/hlsw-hackathon
      - **IT (그것)**: https://github.com/jjeamin/Hackathon
