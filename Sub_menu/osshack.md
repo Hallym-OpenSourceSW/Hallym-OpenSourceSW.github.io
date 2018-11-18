@@ -16,7 +16,17 @@
   - Project Github Sites
   
      - **dangling else**: https://github.com/BJ-Lim/hlsw-hackathon
-     - **카페 좌석 인식 시스템**: https://github.com/jjeamin/Hackathon
+     - **IT (그것)**: https://github.com/jjeamin/Hackathon
+     - **팀명이름**: https://github.com/DorPhin-pc/newtaxi1 
+     - **기아들**: https://github.com/426Hyun/Example 
+     - **피터팬**: https://github.com/SUWANKIM/peterpen
+     - **한수배우러왔습니다**: https://github.com/yesman9692/Hackerthon 
+     - **디지털인문예술**: https://github.com/KIMDOKYOUNG/Digital-Arts-Humanities
+     - **곽권곽**: https://github.com/kcw32/Hackerton
+     - **늦바람**: https://github.com/dhakdlrkt3/NFC_Hack.git 
+     - **씨애랑**: https://github.com/PowerSH/HackerTrain 
+     - **학생지원팀**: https://github.com/planet916/TPVoice 
+     - **꿀잠**: https://github.com/KIMGT/HoneySleep
 
 
 *  *  *
