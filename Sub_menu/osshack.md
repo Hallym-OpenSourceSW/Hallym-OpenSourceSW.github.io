@@ -54,6 +54,7 @@
        - 학생지원팀
        - 곽권박
 
-
+*  *  *
+![한림 해커톤 단체 사진](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/img/hack.jpg)
 *  *  *
 ![한림 SW 해커톤](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/Poster2.png)
