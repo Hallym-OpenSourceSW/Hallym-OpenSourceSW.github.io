@@ -4,9 +4,9 @@
 ### 공개소프트웨어 개발자 센터 (KossLab) 지원
 ![공개소프트웨어 체험 캠프](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/kosslab.png)
 
-![AI](./Sub_menu/img/ai.jpg)
-![AI](./Sub_menu/img/ai2.jpg)
+![AI](./img/ai.jpg)
+![AI](./img/ai2.jpg)
 
-![Blockchain](./Sub_menu/img/blockchain.jpg)
-![Blockchain](./Sub_menu/img/blockchain2.jpg)
+![Blockchain](./img/blockchain.jpg)
+![Blockchain](./img/blockchain2.jpg)
 
