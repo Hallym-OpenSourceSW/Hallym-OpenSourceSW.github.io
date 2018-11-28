@@ -45,6 +45,8 @@
 >  - 세계의 많은 학생들이 자신이 만든 [앱을 소스와 함께 공개](http://appinventor.mit.edu/explore/resources.html)
 >  - 2018년 1학기 33명 수강
 
+ - [교과목 링크](https://github.com/Hallym-CreativeCoding/SmartApp)
+
 2. **[창의코딩 사물인터넷](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/iot.pdf)** : 오픈소스 SW/HW인 아두이노를 활용한 다양한 센서 활용 및 IoT 제작 프로젝트 진행
 >  -  2018년 1학기 29명 수강
 
