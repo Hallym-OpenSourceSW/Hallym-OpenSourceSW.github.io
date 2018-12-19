@@ -2,6 +2,6 @@
 
 *  *  *
 
-![오픈소스SW업적](./img/rule.JPG)
+![오픈소스SW업적](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/rule.JPG)
 
 *  *  *
