@@ -9,3 +9,9 @@
       * 학위논문 심사에 외부 오픈 소스 SW 전문가를 배치하여 오픈 소스 커뮤니티 활동 및 기여 상황 등을 총체적으로 평가
       * 현재 활용되고 있는 주요 오픈 소스 SW 분석을 통하여 관련 핵심이론을 깊이 있게 이해하고 실전적 활용 및 기여 능력을 지닌 인력을 배출함
       * 분석에 관한 문서는 다시 오픈 소스 SW 커뮤니티에 제공되어 산업계에 활용될 수 있도록 함
+      
+      
+   - 대학원 강의 : Github
+      - 고급 데이터 통신 (2018년 1학기, 소정민): [Github](https://github.com/jungminso/ns-3.27-advcomm)
+      - 고급 컴퓨터 구조론 (2018년 1학기, 이정근): [Github](https://github.com/jeonggunlee/Advanced-Computer-Architecture)
+      
