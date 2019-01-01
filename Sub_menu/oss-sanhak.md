@@ -32,9 +32,10 @@
             - https://github.com/yooflyhigh/CloudEditer
             - https://github.com/BaekEunKyu/SP_Project_team9.git
         * [클라우드컴퓨팅] (종합설계과목)
+            - https://github.com/seoyo1/Cloud-Computing
+            - https://github.com/DorPhin-pc/Cloud-Computing
             - https://github.com/hkjoeeee/2018CCProject
             - https://github.com/kkm5022/CPU
             - https://github.com/BeautifulKyo/CloudProject
-            - https://github.com/seoyo1/Cloud-Computing
-            - https://github.com/DorPhin-pc/Cloud-Computing
+
         * [Simple Survive](https://github.com/HyoJuns/Hallym_UntiyProject)
