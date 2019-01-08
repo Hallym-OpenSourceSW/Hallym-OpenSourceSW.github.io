@@ -61,8 +61,8 @@
 
 *  *  *
 
-![정보](./img/sw_contest1.jpg)
-![정보](./img/sw_contest2.jpg)
-![정보](./img/sw_contest3.jpg)
-![정보](./img/sw_contest4.jpg)
+![정보](./Sub_memu/img/sw_contest1.jpg)
+![정보](./Sub_memu/img/sw_contest2.jpg)
+![정보](./Sub_memu/img/sw_contest3.jpg)
+![정보](./Sub_memu/img/sw_contest4.jpg)
 
