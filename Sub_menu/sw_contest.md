@@ -1,8 +1,9 @@
 ## 한림 SW 공모전 진행
 
--SW 아이디어 공모전: 16개
--SW 솔루션 Track A: 5개
--SW 솔루션 Track B: 17개
+* 지원 현황 (2018)
+   -SW 아이디어 공모전: 16개
+   -SW 솔루션 Track A: 5개
+   -SW 솔루션 Track B: 17개
 
 *  *  *
 
@@ -56,3 +57,12 @@
       - 아이디어 완성도 (필요한 기능을 잘 소개하였는가?)
 
 - 오픈소스 기여/활용
+
+
+*  *  *
+
+![정보](./img/sw_contest1.jpg)
+![정보](./img/sw_contest2.jpg)
+![정보](./img/sw_contest3.jpg)
+![정보](./img/sw_contest4.jpg)
+
