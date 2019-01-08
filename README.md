@@ -22,7 +22,7 @@
          * [카펜트리 워크샵 Github](https://github.com/statkclee/2018-10-27-hallym)
      - 오픈소스 SW 동아리 - 씨애랑 소프트웨어 전시회 (소프트웨어 위크 중 진행)
   - [오픈소스 중심의 **"한림 SW 해커톤"** 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/osshack.md) ([한림 SW 해커톤](https://sites.google.com/view/hlsw-hackathon/home))
-  - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](http://hlsw.hallym.ac.kr/post/161)"** 진행
+  - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](./Sub_menu/sw_contest.md)"** 진행
   - [Github를 통한 오픈 Portfolio Contest](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
      - Github와 친숙해지기 위해 이력서를 Github에 올리고 평가받는 콘테스트 (한림 소프트웨어 위크에 진행)
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강 (R, Linux, Python, Tensorflow, 앱인벤터) --> [링크](http://hlsw.hallym.ac.kr/board/course)
