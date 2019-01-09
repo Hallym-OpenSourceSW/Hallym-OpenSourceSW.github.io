@@ -25,7 +25,7 @@
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](./Sub_menu/sw_contest.md)": 38팀 참여 (2018)** 진행
   - [Github를 통한 오픈 Portfolio Contest: 총 17명 ](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
      - Github와 친숙해지기 위해 이력서를 Github에 올리고 평가받는 콘테스트 (한림 소프트웨어 위크에 진행)
-  - 소프트웨어 빌리지 오픈소스 SW 단기 특강 (R, Linux, Python, Tensorflow, 앱인벤터) --> [링크](http://hlsw.hallym.ac.kr/board/course)
+  - 소프트웨어 빌리지 오픈소스 SW 단기 특강/ SW 캠프 (R, Linux, Python, Tensorflow, 앱인벤터): 총 25 --> [링크](http://hlsw.hallym.ac.kr/board/course)
   
   <img src="./img/swv.jpg" width="500px" >
   
