@@ -28,3 +28,32 @@
       * 2학년 **[오픈소스 SW 이해](https://github.com/emsecurity/Understandings_of_Open_Source_SW_2018_Fall)** 및 1학년 **[오픈소스 리눅스 활용](https://github.com/K-DH/OpenSourceLinux_2018_Fall)** 교과목 이론/실습에서 Github 활용에 대해서 수업하고 Github.io에 자신의 이력서를 만드는 과정을 실습으로 진행한다. 이후 교과목 프로젝트 등을 지속적으로 link하여 Github.io의 이력서가 본인이 개발했던 모든 프로젝트와 통합되어 활용될 수 있도록 한다.
       * [Github를 통한 이력서/포트폴리오 공개 Contest](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
       
+      *  *  *
+  
+* **4학년**
+  - 김동영 / 4학년 / 20125107 / dongyoung0218@gmail.com / https://github.com/DONGYYYYY/Resume
+  - 김수완 / 4학년 / 20145108 / korean.kim@hotmail.com / https://github.com/SUWANKIM/KIMSUWAN/blob/master/index.md
+  - 이승재 / 4학년 / 20125331 / zzanggu3026@naver.com / https://github.com/Sinops12/resume/blob/master/resume.md
+  
+* **3학년**
+  - 임병준 / 3학년 / 20165157 / fortress0427@naver.com / https://github.com/BJ-Lim/RESUME
+  - 정재민 / 3학년 / 20145170 / woalsdl500@naver.com / https://github.com/jjeamin/RESUME
+  - 염희수 / 3학년 / 20165143  / 2016gmltn@naver.com / https://github.com/yeom-heesu/Resume
+  - 김재석 / 3학년 / 20157131 / khk37601@gmail.com / https://github.com/khk37601/-Resume
+  - 이화성 / 3학년 / 20167158 / ehs9652@naver.com / https://github.com/ehs9652/Resume/blob/master/resume.md
+  - 박성진 / 3학년 / 20145124 / seongjin2710@naver.com / https://github.com/sung-jin-park/RESUME
+  - 박성미 / 3학년 / 20166405 / 2ricecake@naver.com / https://secondricecake.github.io/
+  
+* **2학년**
+  - 장경수 / 2학년 / 20125255 / ffotturish@naver.com / https://github.com/Yossarian92/Resume
+  - 김동영 / 2학년 / 20175111 / klgh1256@s.hallym.ac.kr / https://github.com/op2gs2/RESUME/blob/master/RESUME.md
+  - 강보경 / 2학년 / 20175103 / 20175103@s.hallym.ac.kr / https://github.com/KangBokyeong/RESUME/blob/master/RESUME.md
+  - 이화준 / 2학년 / 201753333 / swag0090@naver.com / https://github.com/MACE001/RESUME/blob/master/README.md
+
+* **1학년**
+
+  - 최명근 / 1학년 / 20185301 / soc06212@gmail.com / https://github.com/soc06212/Resume
+  - 강민정 / 1학년 / 20185201 / m_see@naver.com / https://github.com/codeliq/resume/blob/master/resume.md
+  - 용권순 / 1학년 / 20185141 / yks3971@naver.com / https://github.com/reversesky/yks
+
+*  *  *
