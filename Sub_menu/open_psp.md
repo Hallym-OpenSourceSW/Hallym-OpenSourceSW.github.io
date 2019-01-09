@@ -4,7 +4,7 @@
 
 ![Open_PSP](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/open_psp.JPG)
 
-   1. **프로젝트 (Project) 개방**: 종합 설계 프로젝트 및 졸업 프로젝트를 Github에 개방하고 문서화를 진행하는 것을 필수로 지정하고 이후 오픈 소스 SW 관련 수업에서 사례 및 실습예제로써 활용함으로써 대학 내에서 개발된 우수 오픈 소스 SW를 저학년 학생들에게 홍보하고 기여하도록 유도함.  
+   1. **[프로젝트 (Project) 개방](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)**: 종합 설계 프로젝트 및 졸업 프로젝트를 Github에 개방하고 문서화를 진행하는 것을 필수로 지정하고 이후 오픈 소스 SW 관련 수업에서 사례 및 실습예제로써 활용함으로써 대학 내에서 개발된 우수 오픈 소스 SW를 저학년 학생들에게 홍보하고 기여하도록 유도함.  
       * 고학년 및 졸업자의 오픈소스 SW 과제를 지속적으로 학생들에게 개방하고 새로운 학생들이 이전 개발된 우수 과제에 기여하게 하여 기여 절차에 대해 학습할 수 있도록 함
       * 더불어, 학생들의 개발한 우수 오픈소스 SW 프로젝트를 대학 및 전공 트랙 수준에서 관리하여 학생들에 의해 지속적으로 기여 향상될 수 있도록 관리함
          * 내부 우수 오픈소스 SW의 연속적 질 향상을 위하여 전공 트랙 교수 및 오픈소스 SW 교육센터가 내부 우수 오픈소스 SW 과제를 관리함
@@ -30,30 +30,3 @@
       
       *  *  *
   
-* **4학년**
-  - 김동영 / 4학년 / 20125107 / dongyoung0218@gmail.com / https://github.com/DONGYYYYY/Resume
-  - 김수완 / 4학년 / 20145108 / korean.kim@hotmail.com / https://github.com/SUWANKIM/KIMSUWAN/blob/master/index.md
-  - 이승재 / 4학년 / 20125331 / zzanggu3026@naver.com / https://github.com/Sinops12/resume/blob/master/resume.md
-  
-* **3학년**
-  - 임병준 / 3학년 / 20165157 / fortress0427@naver.com / https://github.com/BJ-Lim/RESUME
-  - 정재민 / 3학년 / 20145170 / woalsdl500@naver.com / https://github.com/jjeamin/RESUME
-  - 염희수 / 3학년 / 20165143  / 2016gmltn@naver.com / https://github.com/yeom-heesu/Resume
-  - 김재석 / 3학년 / 20157131 / khk37601@gmail.com / https://github.com/khk37601/-Resume
-  - 이화성 / 3학년 / 20167158 / ehs9652@naver.com / https://github.com/ehs9652/Resume/blob/master/resume.md
-  - 박성진 / 3학년 / 20145124 / seongjin2710@naver.com / https://github.com/sung-jin-park/RESUME
-  - 박성미 / 3학년 / 20166405 / 2ricecake@naver.com / https://secondricecake.github.io/
-  
-* **2학년**
-  - 장경수 / 2학년 / 20125255 / ffotturish@naver.com / https://github.com/Yossarian92/Resume
-  - 김동영 / 2학년 / 20175111 / klgh1256@s.hallym.ac.kr / https://github.com/op2gs2/RESUME/blob/master/RESUME.md
-  - 강보경 / 2학년 / 20175103 / 20175103@s.hallym.ac.kr / https://github.com/KangBokyeong/RESUME/blob/master/RESUME.md
-  - 이화준 / 2학년 / 201753333 / swag0090@naver.com / https://github.com/MACE001/RESUME/blob/master/README.md
-
-* **1학년**
-
-  - 최명근 / 1학년 / 20185301 / soc06212@gmail.com / https://github.com/soc06212/Resume
-  - 강민정 / 1학년 / 20185201 / m_see@naver.com / https://github.com/codeliq/resume/blob/master/resume.md
-  - 용권순 / 1학년 / 20185141 / yks3971@naver.com / https://github.com/reversesky/yks
-
-*  *  *
