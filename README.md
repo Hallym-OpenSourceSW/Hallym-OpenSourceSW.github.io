@@ -27,7 +27,7 @@
      - Github와 친숙해지기 위해 이력서를 Github에 올리고 평가받는 콘테스트 (한림 소프트웨어 위크에 진행)
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강 (R, Linux, Python, Tensorflow, 앱인벤터) --> [링크](http://hlsw.hallym.ac.kr/board/course)
   
-  <img src="./img/swv" width="500px" >
+  <img src="./img/swv.jpg" width="500px" >
   
   - 외부 오픈소스 커뮤니티 활동
   
