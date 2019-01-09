@@ -24,7 +24,7 @@
          * 예) [2018-2:학부:컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall)
 
 
-   3. **학생 포트폴리오 개방**: 소프트웨어 전공자 학생들의 포트폴리오 작성을 잘 문서화된 과제 및 프로젝트 SW 개발 소스가 링크된 이력 기술과 함께 Github 및Github.io 등 에서 작성하여 개방함
+   3. **[학생 포트폴리오 개방](https://github.com/Hallym-OpenSourceSW/GitResumeContest/blob/master/registration.md)**: 소프트웨어 전공자 학생들의 포트폴리오 작성을 잘 문서화된 과제 및 프로젝트 SW 개발 소스가 링크된 이력 기술과 함께 Github 및Github.io 등 에서 작성하여 개방함
       * 2학년 **[오픈소스 SW 이해](https://github.com/emsecurity/Understandings_of_Open_Source_SW_2018_Fall)** 및 1학년 **[오픈소스 리눅스 활용](https://github.com/K-DH/OpenSourceLinux_2018_Fall)** 교과목 이론/실습에서 Github 활용에 대해서 수업하고 Github.io에 자신의 이력서를 만드는 과정을 실습으로 진행한다. 이후 교과목 프로젝트 등을 지속적으로 link하여 Github.io의 이력서가 본인이 개발했던 모든 프로젝트와 통합되어 활용될 수 있도록 한다.
       * [Github를 통한 이력서/포트폴리오 공개 Contest](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
       
