@@ -17,8 +17,7 @@
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
   - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md) (전공 2과목, 비전공자 2과목, 교재개발 6건)
   - [오픈소스 SW 활용 산학 프로젝트 진행(산학과제/캡스톤)](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
-  - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md)
-     - 2018년 7회
+  - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md): 2018년 7회
      - 2019년 2회
         - 문서 지옥에서의 해방: 깃(Git)으로 하는 버전 관리, 이고잉 (3월 20일)
         - 오픈소스 SW 중심의 인공지능과 빅데이터가 바꾸는 세상, 이정근 (3월 21일)
