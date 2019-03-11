@@ -9,6 +9,9 @@
      - 2018년 2학기 총 23과목에서 활용
      - 2019년 1학기 총 21개 교과목에서 활용
   - [오픈소스SW 개발 중심의 석/박사 과정 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_grad.md)
+     - 대학원 개방형 실라부스 
+        - 2018년 2건 (고급데이터통신, 고급컴퓨터구조론)
+        - 2019년 1건 (컴퓨터 구조 세미나)
   - [오픈소스 SW 교육 및 기여 장려를 위한 오픈소스SW 활동 교수 업적화](./Sub_menu/rule.md): (규정 개정: 2018년 12월)
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
