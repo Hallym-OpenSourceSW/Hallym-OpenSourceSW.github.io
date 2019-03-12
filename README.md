@@ -15,7 +15,12 @@
   - [오픈소스 SW 교육 및 기여 장려를 위한 오픈소스SW 활동 교수 업적화](./Sub_menu/rule.md): (규정 개정: 2018년 12월)
 
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
-  - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md) (전공 2과목, 비전공자 2과목, 교재개발 6건)
+  - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md)
+     - 2018년도: 전공 2과목, 비전공자 2과목, 교재개발 6건
+     - 2019년도: 전공 0과목, 비전공자 0과목, 교재개발 1건
+        - 오픈소스 활용을 위한 기초 파이썬 프로그래밍 (일반교재), 신미영 외
+        - 컴퓨팅 사고와 문제해결 (PPT), 이성룡 외
+     
   - [오픈소스 SW 활용 산학 프로젝트 진행(산학과제/캡스톤)](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md): 2018년 7회
      - 2019년 2회
