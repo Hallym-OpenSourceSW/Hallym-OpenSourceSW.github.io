@@ -22,6 +22,9 @@
         - 컴퓨팅 사고와 문제해결 (PPT), 이성룡 외
      
   - [오픈소스 SW 활용 산학 프로젝트 진행(산학과제/캡스톤)](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
+     - 2018년: 25건 - 산학프로젝트 4건, 캡스톤 21건
+     - 2019년: 산학프로젝트 1건, 캡스톤 진행중
+     
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md): 2018년 7회
      - 2019년 2회
         - 문서 지옥에서의 해방: 깃(Git)으로 하는 버전 관리, 이고잉 (3월 20일)
