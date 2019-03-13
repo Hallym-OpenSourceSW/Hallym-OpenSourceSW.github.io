@@ -6,7 +6,7 @@
 **한림대학교 소프트웨어 중심대학의 오픈소스 SW 활성화 전략**
   - [Open Project-Syllabus-Portfolio 생태계 구축](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/open_psp.md)
      - 개방형 실라부스: 2018년 5 건, 2019년 5 건
-     - [개방형 포트폴리오](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
+     - [개방형 포트폴리오](https://github.com/Hallym-OpenSourceSW/GitResumeContest): 2018년 17명 등록
      
   - [오픈소스SW 활용 실습 수업 진행](https://github.com/Hallym-OpenSourceSW/HLSWCourses) 
      - 2018년 2학기 총 23과목에서 활용
