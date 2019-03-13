@@ -3,7 +3,7 @@
 
 한림대학교 소프트웨어 중심대학 사업단 산하 오픈소스 소프트웨어 교육 센터 (Hallym OSS Education Center)
 
-**한림대학교 소프트웨어 중심대학의 오픈소스 SW 활성화 전략**
+## 한림대학교 소프트웨어 중심대학의 오픈소스 SW 활성화 전략
   - [Open Project-Syllabus-Portfolio 생태계 구축](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/open_psp.md)
      - 개방형 실라부스: 2018년 5 건, 2019년 5 건
      - [개방형 포트폴리오](https://github.com/Hallym-OpenSourceSW/GitResumeContest): 2018년 17명 등록
@@ -21,7 +21,7 @@
      
   - [오픈소스 SW 교육 및 기여 장려를 위한 오픈소스SW 활동 교수 업적화](./Sub_menu/rule.md): (규정 개정: 2018년 12월)
 
-**한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영**
+## 한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영
   - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md)
      - 2018년도: 전공 2과목, 비전공자 2과목, 교재개발 6건
      - 2019년도: 전공 0과목, 비전공자 0과목, 교재개발 1건
