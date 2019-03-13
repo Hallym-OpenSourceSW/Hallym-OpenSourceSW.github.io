@@ -24,14 +24,12 @@
 ## 한림대학교 소프트웨어 중심대학의 오픈소스 SW 사업 운영
   - [오픈소스 SW 교과목 개발 및 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossClass.md)
      - 2018년도: 전공 2과목, 비전공자 2과목, 교재개발 6건
-     - 2019년도: 전공 1과목, 비전공자 0과목, 교재개발 2건 :: 공개형 동영상 강좌 개발에 주력.
+     - 2019년도: 전공 1과목, 비전공자 0과목, 교재개발 2건
         - 전공과목
            - 빅데이터 캡스톤: 모든 프로젝트가 Github를 통해 협업 관리
         - 교재개발
            - 오픈소스 활용을 위한 기초 파이썬 프로그래밍 (일반교재), 신미영 외
            - 컴퓨팅 사고와 문제해결 (PPT), 이성룡 외
-        - 동영상 교재개발
-           - CUDA 병렬 프로그래밍
      
   - [오픈소스 SW 활용 산학 프로젝트 진행(산학과제/캡스톤)](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
      - 2018년: 25건 - 산학프로젝트 4건, 캡스톤 21건
