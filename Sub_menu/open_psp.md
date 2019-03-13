@@ -17,11 +17,19 @@
    2. **[교과목 해설서 (Syllabus) 개방](https://github.com/Hallym-OpenSourceSW/HLSWCourses)**: 교수의 경우 교과목 해설서를 Github에서 개발하여 개방
       * 교과목 해설서를 Github에 개방하고 실습 예제 코드 및 과거 우수 프로젝트 과제를 Github 링크를 통하여 관리함 (실습 동영상 강좌 등이 링크 되도록 지원하고 향후 MOOC로 확대될 수 있도록 지원)
       * 우수 오픈 Syllabus의 경우 오픈 소스 교육 센터에서 평가하고 우수사례를 평가하여 인센티브 제공함으로써 교수자들에게 동기 부여
-         * 예) [2018-1:학부:소프트웨어캡스톤](https://github.com/jeonggunlee/Capstone-Design)
-         * 예) [2018-1:학부:임베디드개론](https://github.com/jeonggunlee/Embedded-System-Design)
-         * 예) [2018-1:대학원:고급컴퓨터구조](https://github.com/jeonggunlee/Advanced-Computer-Architecture)
-         * 예) [2018-2:학부:병렬컴퓨팅](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall)
-         * 예) [2018-2:학부:컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall)
+      * 2018 년도
+         * [2018-1:학부:소프트웨어캡스톤](https://github.com/jeonggunlee/Capstone-Design)
+         * [2018-1:학부:임베디드개론](https://github.com/jeonggunlee/Embedded-System-Design)
+         * [2018-1:대학원:고급컴퓨터구조](https://github.com/jeonggunlee/Advanced-Computer-Architecture)
+         * [2018-2:학부:병렬컴퓨팅](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall)
+         * [2018-2:학부:컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall)
+      * 2019 년도
+         * [2019-1:학부:논리설계및실험](https://github.com/jeonggunlee/LogicDesign)
+         * [2019-1:학부:운영체계](https://github.com/wonpyo-kim/OperatingSystems)
+         * [2019-1:학부:정보보호론](https://github.com/emsecurity/Information_Security_2019_Spring)
+         * [2019-1:학부:블록체인](https://github.com/emsecurity/Blockchain_2019_Spring)
+         * [2019-1:대학원:컴퓨터구조세미나](https://github.com/jeonggunlee/ca_seminar)    
+         
 
 
    3. **[학생 포트폴리오 개방](https://github.com/Hallym-OpenSourceSW/GitResumeContest/blob/master/registration.md)**: 소프트웨어 전공자 학생들의 포트폴리오 작성을 잘 문서화된 과제 및 프로젝트 SW 개발 소스가 링크된 이력 기술과 함께 Github 및Github.io 등 에서 작성하여 개방함
