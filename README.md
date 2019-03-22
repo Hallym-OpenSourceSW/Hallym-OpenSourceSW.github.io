@@ -39,6 +39,7 @@
      - 2019년: 산학프로젝트 1건, 캡스톤 진행중
         - 산학과제: 오픈소스 딥러닝 기술을 활용한 거리 혼잡도 예측 시스템 개발
         - 캡스톤:
+           - [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design)
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md): 2018년 7회
      - 2019년 2회
         - 문서 지옥에서의 해방: 깃(Git)으로 하는 버전 관리, 이고잉 (3월 20일)
