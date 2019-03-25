@@ -48,7 +48,7 @@
   - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/kossLab.md) (3회) <img src="./img/kosslab_icon.PNG" width="100px" >
 
   - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md)
-     - 오픈소스 SW 동아리 2개: 씨애랑 & [미친러닝](https://github.com/jeonggunlee/MichinLearning)
+     - 오픈소스 SW 동아리 3개: 씨애랑 & [미친러닝](https://github.com/jeonggunlee/MichinLearning), 한림 데이터랩(SW연계)
      - 오픈소스 워크숍, [소프트웨어 카펜트리 워크숍](https://statkclee.github.io/2018-10-27-hallym/?fbclid=IwAR0MOtAW5EAYyg0VCzGXV5njSDntFtRk65ZambRti-lwjfh28LI4aFv2WLc), 한림 데이터랩 (융합전공 커뮤니티)
          * [카펜트리 워크샵 Github](https://github.com/statkclee/2018-10-27-hallym)
      - 오픈소스 SW 동아리 - 씨애랑 소프트웨어 전시회 (소프트웨어 위크 중 진행)
