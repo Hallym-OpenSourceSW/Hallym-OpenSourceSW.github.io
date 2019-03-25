@@ -64,7 +64,7 @@
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강/ SW 캠프 (R, Linux, Python, Tensorflow, 앱인벤터): 총 25 --> [링크](http://hlsw.hallym.ac.kr/board/course)
     
   - 외부 오픈소스 커뮤니티 활동
-     - ![LangCon 2019](): 디지털인문예술전공 학생들과 교수진 다수 자연언어처리대회 참여 및 커뮤니티 지원 활동: 2019년 2월 16일
+     - ![LangCon 2019](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/langcon.JPG): 디지털인문예술전공 학생들과 교수진 다수 자연언어처리대회 참여 및 커뮤니티 지원 활동: 2019년 2월 16일
      
   
   
