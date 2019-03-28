@@ -75,7 +75,7 @@
       - R을 이용한 데이터 분석 (일반교재), 이재영      
       - 컴퓨팅 사고와 문제해결 (PPT), 이성룡 외
       - 학생 및 교수자를 위한 Github의 수업 활용 가이드 (동영상), 이정근
-      - 오픈소스 Logisim을 활용한 디지털 논리회로의 이해 및 설계 (동영상), 이정근
+      - [오픈소스 Logisim을 활용한 디지털 논리회로의 이해 및 설계](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV) (동영상), 이정근
       - 오픈소스 Tensorflow 플랫폼을 활용한 빅데이터/인공지능 응용 개발 (동영상), 이정근
       - 파이선을 이용한 데이터사이언스 기초 (동영상), 송혜정
       - Verilog HDL을 이용한 오픈소스 MIPS 프로세서 설계 (동영상), 이정근
