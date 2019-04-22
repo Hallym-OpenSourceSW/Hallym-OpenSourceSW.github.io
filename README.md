@@ -43,10 +43,17 @@
         - 캡스톤:
            - [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design)
            
-  - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md): 2018년 7회
+  - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md):
+     - 2018년 7회
      - 2019년 2회
         - 문서 지옥에서의 해방: 깃(Git)으로 하는 버전 관리, 이고잉 (3월 20일)
         - 오픈소스 SW 중심의 인공지능과 빅데이터가 바꾸는 세상, 이정근 (3월 21일)
+
+  - [오픈소스 SW 특강 진행]: 2019년 3회 - 1-2시간 특강을 확장하고 실습을 강화하여 학생들이 실질적으로 도움을 받을 수 있도록 
+     - [겨울소프트웨어빌리지특강:4박5일] 파이썬 프로그래밍: 2019.1.21.(월)~1.25(금)
+     - [겨울소프트웨어빌리지특강:4박5일] 파이썬 프로그래밍 기초 (인문사회): 2019.1.21.(월)~1.25(금)
+     - [겨울소프트웨어빌리지특강:4박5일] 리눅스 운영체제 기초: 2019.1.28.(월)~2.1(금)
+        
   - [이정근 센터장의 찾아가는 Git/Github 세미나 및 동영상 ](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
   - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/kossLab.md) (3회) <img src="./img/kosslab_icon.PNG" width="100px" >
 
