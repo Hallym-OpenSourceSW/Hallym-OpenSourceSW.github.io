@@ -36,9 +36,9 @@
   - [오픈소스 SW 활용 산학 프로젝트 진행(산학과제/캡스톤)](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss-sanhak.md)
      - 2018년: 25건 - 산학프로젝트 4건, 캡스톤 21건
      - 2019년: 산학프로젝트 1건, 캡스톤 진행중
-        - 산학과제:
-           - 오픈소스 딥러닝 기술을 활용한 거리 혼잡도 예측 시스템 개발
-           - 딥러닝을 활용한 차량용 라이센스 검출
+        - 산학과제: (5건)
+           - 오픈소스 딥러닝 기술을 활용한 거리 혼잡도 예측 시스템 개발 
+           - 딥러닝을 활용한 차량용 라이센스 검출 등.
               - [참여 학부생 Github](https://github.com/DeepLearningHB/NCS2Guide): 인텔 뉴로 컴퓨팅 스틱 2 활용 노하우 공유 
         - 캡스톤:
            - [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design)
