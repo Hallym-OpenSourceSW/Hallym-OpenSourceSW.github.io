@@ -71,7 +71,7 @@
   - [오픈소스 중심의 **"한림 SW 해커톤"** 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/osshack.md) ([한림 SW 해커톤](https://sites.google.com/view/hlsw-hackathon/home))
      - 12팀 총 51 (2018)
      - 2019년 (2건 기획)
-        - 5월 소프트웨어숲: [오픈소스SW Boot Camp](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/2019%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%88%B2.pdf)
+        - 5월 소프트웨어숲: [오픈소스SW Boot Camp](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](./Sub_menu/sw_contest.md)"** 진행
      - 38팀 참여 (2018)
   - [Github를 통한 오픈 Portfolio Contest: 총 17명 ](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
