@@ -58,7 +58,7 @@
      - [겨울소프트웨어빌리지특강:4박5일] 파이썬 프로그래밍 기초 (인문사회): 2019.1.21.(월)~1.25(금)
      - [겨울소프트웨어빌리지특강:4박5일] 리눅스 운영체제 기초: 2019.1.28.(월)~2.1(금)
      - [SW빌리지특강: 1박 2일] R을 이용한 데이터 분석과 시각화(5/13~5/14)
-     - [SW빌리지특강: 1박 2일] 누구나 즐기는 딥러닝:오픈소스 케라스와 함께!(5/22~5/23)   
+     - [SW빌리지특강: 1박 2일] [누구나 즐기는 딥러닝:오픈소스 케라스와 함께!(5/22~5/23)](https://github.com/jeonggunlee/OpenSourceKeras)   
      
   - [이정근 센터장의 찾아가는 Git/Github 세미나 및 동영상 ](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
   - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/kossLab.md) (3회) <img src="./img/kosslab_icon.PNG" width="100px" >
