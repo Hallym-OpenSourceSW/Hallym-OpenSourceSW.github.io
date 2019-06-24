@@ -28,36 +28,38 @@
      필요한 때 지속적으로 단어를 노출시켜 자연스럽게 암기 가능하도록 하는 서비스 구축 
    * https://github.com/kkm5022/POP-UP
  
-     4. 3박자조
+    4. 3박자조
    * 프로젝트명 : 동아리 관리 플랫폼
    * 주제 : 교내 동아리를 효율적으로 관리하고, 동아리 활성화를 위한 통합 동아리 관리 웹서비스 구축 
    * https://github.com/Jinseop95/Capstone_Design
    
-     5. 프로젝터조
+    5. 프로젝터조
    * 프로젝트명 : 한림대학교 SW중심대학사업단 홈페이지 및 업무시스템 개선
    * 주제 : 업무 통합의 관점에서 서비스를 개선하고, 추가적으로 필요한 업무시스템 구축
    * https://github.com/HoJungLee/HallymTest
 
-     6. 장비지원조
+    6. 장비지원조
    * 프로젝트명 : Stick-Overflow
    * 주제 : 기업들이 가진 데이터를 접근하여 다양한 형태로 분석 가능한 모듈 구축
    * https://github.com/Lee-App/Stick-Overflow
    
-     7. M2F1조
+    7. M2F1조
    * 프로젝트명 : 빅데이터 설문조사
    * 주제 : 설문조사 및 결과 분석 프로그램 구축
    * https://github.com/devxian96/m2f1
    
-     8. 배드림턴조
+    8. 배드림턴조
    * 프로젝트명 : 배드민턴 클럽시스템 구축
    * 주제 : 배드민턴 동호회를 관리할 수 있는 시스템 구축
    * https://github.com/asd40681402/Capstone_BaDreamTon
    
-     9. 나머지조
+    9. 나머지조
    * 프로젝트명 : Club Management
    * 주제 : 동아리 관리 안드로이드 어플리케이션 구축
    * https://github.com/JeongGyunMo/Capstone-Design
 
+*  *  *
+*  *  *
 
 
  * 2018년: 산학 프로젝트 및 캡스톤 ! (4 + 21 = 25)
