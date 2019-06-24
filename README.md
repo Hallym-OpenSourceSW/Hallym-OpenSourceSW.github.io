@@ -40,8 +40,8 @@
            - 오픈소스 딥러닝 기술을 활용한 거리 혼잡도 예측 시스템 개발 
            - 딥러닝을 활용한 차량용 라이센스 검출 등.
               - [참여 학부생 Github](https://github.com/DeepLearningHB/NCS2Guide): 인텔 뉴로 컴퓨팅 스틱 2 활용 노하우 공유 
-        - 캡스톤:
-           - [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design)
+        - 캡스톤: ([9건](https://github.com/lab-lwc/20191_CapstoneDesign))
+           - [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design) 등 9건 (1학기)
            
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md):
      - 2018년 7회
