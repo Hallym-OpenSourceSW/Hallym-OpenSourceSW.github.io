@@ -53,33 +53,38 @@
         - 오픈소스 소프트웨어와 Github, 이정근 (5월 13일)
         - 오픈소스로 시작하는 빅데이터/AI 세계, 강원대 이수안 박사, 오픈소스 Boot Camp 특강 (5월 14일)
 
-  - 오픈소스 SW 특강 진행: 2019년 5회 - 1-2시간 특강을 확장하고 실습을 강화하여 학생들이 실질적으로 도움을 받을 수 있도록 
+  - 오픈소스 SW 특강 진행: 2019년 9회 - 1-2시간 특강을 확장하고 실습을 강화하여 학생들이 실질적으로 도움을 받을 수 있도록 
      - [겨울소프트웨어빌리지특강:4박5일] 파이썬 프로그래밍: 2019.1.21.(월)~1.25(금)
      - [겨울소프트웨어빌리지특강:4박5일] 파이썬 프로그래밍 기초 (인문사회): 2019.1.21.(월)~1.25(금)
      - [겨울소프트웨어빌리지특강:4박5일] 리눅스 운영체제 기초: 2019.1.28.(월)~2.1(금)
      - [SW빌리지특강: 1박 2일] R을 이용한 데이터 분석과 시각화(5/13~5/14)
-     - [SW빌리지특강: 1박 2일] [누구나 즐기는 딥러닝:오픈소스 케라스와 함께!(5/22~5/23)](https://github.com/jeonggunlee/OpenSourceKeras)   
+     - [SW빌리지특강: 1박 2일] [누구나 즐기는 딥러닝:오픈소스 케라스와 함께!(5/22~5/23)](https://github.com/jeonggunlee/OpenSourceKeras) 
+     - [공개SW협회 특강: 4일] SW Week에 4번의 특강 진행 예정
      
   - [이정근 센터장의 찾아가는 Git/Github 세미나 및 동영상 ](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/gitSeminar.md) (4회)
   - [KossLab과 함께하는 오픈소스 실무 전문가 초정 세미나](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/kossLab.md) (3회) <img src="./img/kosslab_icon.PNG" width="100px" >
 
   - [오픈소스 SW 동아리/커뮤니티 활성화](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_community.md)
-     - 오픈소스 SW 동아리 3개: 씨애랑 & [미친러닝](https://github.com/jeonggunlee/MichinLearning), 한림 데이터랩(SW연계)
+     - 오픈소스 SW 동아리 4개: 씨애랑 & [미친러닝](https://github.com/jeonggunlee/MichinLearning), 한림 데이터랩(SW연계), 홈브루
      - 오픈소스 워크숍, [소프트웨어 카펜트리 워크숍](https://statkclee.github.io/2018-10-27-hallym/?fbclid=IwAR0MOtAW5EAYyg0VCzGXV5njSDntFtRk65ZambRti-lwjfh28LI4aFv2WLc), 한림 데이터랩 (융합전공 커뮤니티)
          * [카펜트리 워크샵 Github](https://github.com/statkclee/2018-10-27-hallym)
      - 오픈소스 SW 동아리 - 씨애랑 소프트웨어 전시회 (소프트웨어 위크 중 진행)
   - [오픈소스 중심의 **"한림 SW 해커톤"** 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/osshack.md) ([한림 SW 해커톤](https://sites.google.com/view/hlsw-hackathon/home))
      - 12팀 총 51 (2018)
-     - 2019년 (2건 기획)
+     - 2019년 (3건 기획)
         - 5월 소프트웨어숲: [오픈소스SW Boot Camp](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)
+        - Git day 해커톤 진행 예정
+        - 알고리즘 구현 해커톤 진행 예정
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](./Sub_menu/sw_contest.md)"** 진행
      - 38팀 참여 (2018)
+     - 아이디어 xx팀 참여, 개발 xx팀 참여 (2019)
   - [Github를 통한 오픈 Portfolio Contest: 총 17명 ](https://github.com/Hallym-OpenSourceSW/GitResumeContest)
      - Github와 친숙해지기 위해 이력서를 Github에 올리고 평가받는 콘테스트 (한림 소프트웨어 위크에 진행)
   - 소프트웨어 빌리지 오픈소스 SW 단기 특강/ SW 캠프 (R, Linux, Python, Tensorflow, 앱인벤터): 총 25 --> [링크](http://hlsw.hallym.ac.kr/board/course)
     
   - 외부 오픈소스 커뮤니티 활동
      - ![LangCon 2019](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/langcon.JPG): 디지털인문예술전공 학생들과 교수진 다수 자연언어처리대회 참여 및 커뮤니티 지원 활동: 2019년 2월 16일
+     - 2019 오픈소스 개발자 이야기: 소프트웨어융합대학 학생들이 2019 오픈소스 개발자 이야기 참여: 2019년 6월 29일
      
   
   
