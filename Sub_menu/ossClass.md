@@ -17,7 +17,7 @@
 3. **[오픈소스 Linux 실무](https://github.com/K-DH/OpenSourceLinux_2018_Fall)** : [2018년 2학기 개설](https://github.com/K-DH/OpenSourceLinux_2018_Fall)
 >(1학년/2학점, 실습 중심 교과목): 오픈 소스 SW 활용을 용이하게 하고 Linux 개발 플랫폼에 보다 익숙하도록 교육하기 위한 활용 중심의 교과목을 제공함
 
-4. **SW 실전영어 II**: 2019년 2학기 개설
+4. **SW 실전영어 I**: 2019년 1학기 개설
 >(오픈 소스 SW 및 Stackoverflow 활용 영어): 개발자들이 자주 활용하는 Stackoverflow 및 오픈 소스 SW의 내용을 전공 영어 교육에 자료로 활용하여 학생들이 용이하게 Stackoverflow 및 오픈 소스 SW를 접근하고 활용할 수 있도록 교육함
 
 ![Alt text](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/img/Git.jpg "한림오픈소스SW교과목")
