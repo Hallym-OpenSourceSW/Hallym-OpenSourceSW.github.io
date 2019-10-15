@@ -28,7 +28,12 @@
          * [2019-1:학부:운영체계](https://github.com/wonpyo-kim/OperatingSystems)
          * [2019-1:학부:정보보호론](https://github.com/emsecurity/Information_Security_2019_Spring)
          * [2019-1:학부:블록체인](https://github.com/emsecurity/Blockchain_2019_Spring)
-         * [2019-1:대학원:컴퓨터구조세미나](https://github.com/jeonggunlee/ca_seminar)    
+         * [2019-1:대학원:컴퓨터구조세미나](https://github.com/jeonggunlee/ca_seminar)
+         * [2019-2:학부:데이터베이스](https://github.com/juhou/Database_2019_2)
+         * [2019-2:학부:시스템프로그래밍](https://github.com/twoonkim/sp2019-2)
+         * [2019-2:학부:자료구조](https://github.com/twoonkim/ds2019-2)
+         * [2019-2:학부:클라우드컴퓨팅](https://github.com/twoonkim/cc2019-2)
+         * [2019-2:대학원: 병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming) 
          
 
 
