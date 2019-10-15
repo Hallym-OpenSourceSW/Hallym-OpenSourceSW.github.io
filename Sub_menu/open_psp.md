@@ -33,6 +33,9 @@
          * [2019-2:학부:시스템프로그래밍](https://github.com/twoonkim/sp2019-2)
          * [2019-2:학부:자료구조](https://github.com/twoonkim/ds2019-2)
          * [2019-2:학부:클라우드컴퓨팅](https://github.com/twoonkim/cc2019-2)
+         * [2019-2:학부:오픈소스개발도구활용](https://github.com/emsecurity/Development_of_Opensource_SW_2019_Fall)
+         * [2019-2:학부:네트워크보안](https://github.com/emsecurity/Network_Security_2019_Fall)
+         * [2019-2:학부:오픈소스SW의](https://github.com/emsecurity/Understandings_of_Open_Source_SW_2019_Fall)
          * [2019-2:대학원: 병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming) 
          
 
