@@ -10,7 +10,7 @@
      
   - [오픈소스SW 활용 실습 수업 진행](https://github.com/Hallym-OpenSourceSW/HLSWCourses) 
      - 2018년 2학기 총 23과목에서 활용
-     - 2019년 1학기 총 21개 교과목에서 활용
+     - 2019년 1,2학기 총 47개 교과목에서 활용
   - [오픈소스SW 개발 중심의 석/박사 과정 운영](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/oss_grad.md)
      - 대학원 개방형 실라부스 
         - 2018년 2건 (고급데이터통신, 고급컴퓨터구조론)
