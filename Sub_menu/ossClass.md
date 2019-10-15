@@ -27,7 +27,14 @@
 * * *
 * * *
 
-교과목에서 프로젝트 운영 시 Github를 통한 협업 진행 유도: ① 팀단위로 이루어지는 프로젝트의 경우 Github를 활용하여 분산 개발을 경험하고 ② 전공필수인 캡스톤 설계에서 Github 등에 소스 개방 및 문서화 필수 (매년 우수 과제를 선발하여 차년도 프로젝트 팀들에 의해 지속적 향상이 이루어지도록 노력함)  교내 우수 과제를 활용한 오픈소스 SW Practice 수행을 위한 생태계 구축
+교과목에서 프로젝트 운영 시 Github를 통한 협업 진행 유도: 
+
+① 팀단위로 이루어지는 프로젝트의 경우 Github를 활용하여 분산 개발을 경험하고 
+
+② 전공필수인 캡스톤 설계에서 Github 등에 소스 개방 및 문서화 필수 (매년 우수 과제를 선발하여 차년도 프로젝트 팀들에 의해 지속적 향상이 이루어지도록 노력함) 
+
+<!--
+ 교내 우수 과제를 활용한 오픈소스 SW Practice 수행을 위한 생태계 구축
    - Github 활용 필수 교과목
       - 소프트웨어 캡스톤 디자인 1 (전공필수), 2
       - C/C++ 프로그래밍 프로젝트 / JAVA 프로그래밍 프로젝트
@@ -37,7 +44,8 @@
          * 예) [캡스톤OSS:Smart DoorLock](https://github.com/jeonggunlee/Capstone-Design/blob/master/DitialDoorLock/README.md)
          * 예) [캡스톤OSS:Weather_box](https://github.com/jeonggunlee/Capstone-Design/blob/master/WeatherBox/README.md)
          * 예) [캡스톤OSS:Clap-to-Switch](https://github.com/cobaltp/clap-to-switch)
-      
+-->
+
 * * *
 * * *
 비전공자를 위한 오픈소스 SW 프로젝트 교과목
