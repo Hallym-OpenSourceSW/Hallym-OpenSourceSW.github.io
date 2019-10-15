@@ -8,11 +8,12 @@
 
 2. **OSS 개발 도구 활용** (3,4학년/3학점): 2019년 2학기 개설
 > 전통적인 SW 개발 방법론과 달라진 현대의 오픈소스 SW 개발 방법론에 대한 깊이 있는 강의와 현재 활용되고 있는 오픈소스 SW 개발 도구들에 대한 이해와 및 실습
->  - 형상관리 도구(Git, CVS, 등)
->  - CI (Continuous Integration) 도구 (JENKINS, HUDSON, Travis 등)
->  - 정적 분석 도구 (K9, PMD, 등)
->  - 이슈 트래킹 도구 (JIRA, RedMind, BugZillar, 등)
->  - Code Review 관리 도구 (Gerrit: 현재 Tizen이 사용)
+>  - 오픈소스 개발 플랫폼 구축
+>  - Pytorch를 이용한 딥러닝
+>  - 대용량 소스코드 분석 및 리눅스 시스템의 성능 분석을 위한 툴 활용
+>  - Keras 오픈소스 딥러닝 플랫폼의 이해
+>  - 오픈소스 기반 암호라이브러리 활용
+
 
 3. **[오픈소스 Linux 실무](https://github.com/K-DH/OpenSourceLinux_2018_Fall)** : [2018년 2학기 개설](https://github.com/K-DH/OpenSourceLinux_2018_Fall)
 >(1학년/2학점, 실습 중심 교과목): 오픈 소스 SW 활용을 용이하게 하고 Linux 개발 플랫폼에 보다 익숙하도록 교육하기 위한 활용 중심의 교과목을 제공함
