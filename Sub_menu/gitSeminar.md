@@ -28,6 +28,12 @@
 일정: 9월 18일(화요일) 오후 2시(7교시).
 장소: 산학협력관 3층 22302호실
 
+* 5차 - 머신러닝 (김유섭 교수님: 29명)
+일정: 9월 11일
+
+* 6차 - 병렬컴퓨터종합설계 (이정근교수님: 12명)
+일정: 9월 11일
+
 [찾아가는 Git/Github 세미나 자료](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/GitSeminar.pdf) -- [SlideShare](https://www.slideshare.net/jeonggunlee/gitgithub-seminar)
 
 *  *  *
