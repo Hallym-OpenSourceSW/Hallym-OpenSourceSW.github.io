@@ -45,7 +45,7 @@
            - [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design) 등 9건 (1학기)
            
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md):
-     - 2018년 7회
+     - 2018년 10회 (일반 세미나 7회 + KossLab 세미나 3회)
      - 2019년 9회
         - 문서 지옥에서의 해방: 깃(Git)으로 하는 버전 관리, 이고잉, 디지털리터리시 특강 (3월 20일)
         - 오픈소스 SW 중심의 인공지능과 빅데이터가 바꾸는 세상, 이정근, 소프트웨어주간 특강 (3월 21일)
