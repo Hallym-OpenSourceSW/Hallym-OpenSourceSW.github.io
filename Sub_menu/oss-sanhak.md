@@ -124,8 +124,79 @@
       * 프로젝트명 : 한림어플
       * https://github.com/mseng18/Hallym
       
+ *  *  *
+ 4. 스마트IoT 캡스톤을 통한 오픈소스 SW 프로젝트 (2학기 5건)
+    - 캐치-22
+      * 프로젝트명 : Secure and Customized Smart Home System
+      * https://github.com/Yossarian92/Project_capstone
+    
+    - e^2
+      * 프로젝트명 : 초상권 침해 방지 카메라 어플
+      * https://github.com/BZIIAN/capstone_design
+
+    - 급조
+      * 프로젝트명 : 휴대용 베이비 케어 시스템
+      * https://github.com/hunss95/GJ/issues/1 
+    
+    - 포스틱
+      * 프로젝트명 : IoT 부유물 청소 보트
+      * https://github.com/Hyeon-Kang/WhikiWhiki
       
+    - 안전하게해죠
+      * 프로젝트명 : 통학버스 어린이 안전 승하차 시스템
+      * https://github.com/jeonwy/Capstone_Design
+    
+*  *  *
+ 5. 콘텐츠IT 캡스톤을 통한 오픈소스 SW 프로젝트 (2학기 5건)
+    - 소용돌이
+      * 프로젝트명 : Unity 농장 게임
+      * https://github.com/vutyful/GameProject
+    
+    - I.eye
+      * 프로젝트명 : I.eye
+      * 주제 : CT 영상을 이용해 맥락막 분석을 통한 질병관리와 관련 웹페이지 개발
+      * https://github.com/HallymIEye/Ieyeproject
+
+    - O.B
+      * 프로젝트명 : VR지진대피시뮬레이션
+      * https://github.com/YOODONGHYUKgithub.com/ruria0118
+    
+    - HAVANA
+      * 프로젝트명 : 브레인 헬스케어 관련 어플리케이션
+      * https://github.com/Inoves16/hello 
       
+    - Life
+      * 프로젝트명 : 대학 생활 게임
+      * https://github.com/Fuenkel/-CapstoneLife
+      
+     
+ *  *  *
+ 6. 소프트웨어캡스톤을 통한 오픈소스 SW 프로젝트 (2학기 4건)
+    - SPRING
+      * 프로젝트명 : SPRING
+      * 주제 : 개인사업자를 위한 회계 웹 어플리케이션 개발
+      * https://github.com/CackaRoach/TeamSpring_src
+    
+    - 개발자들
+      * 프로젝트명 : 한림 동아리 플랫폼
+      * https://github.com/gsdgf1324/Club-Management-Platform
+
+    - 안드로이더
+      * 프로젝트명 : Club Management Software
+      * https://github.com/yooflyhigh/CMM
+    
+    - 몬드라곤
+      * 프로젝트명 : 설문조사 시스템
+      * https://github.com/JHSeo95 
+
+ *  *  *
+ 7. 시스템프로그래밍 오픈소스 SW 프로젝트 (2학기 1건)
+    - BCD
+      * 프로젝트명 : BCD
+      * 주제 : 병렬 클러스터 개발
+      * https://github.com/dding-g/Tesseract_Korean_Converter 
+    
+
 
 *  *  *
 *  *  *
