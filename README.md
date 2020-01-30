@@ -43,7 +43,7 @@
               - [참여 학부생 Github](https://github.com/DeepLearningHB/NCS2Guide): 인텔 뉴로 컴퓨팅 스틱 2 활용 노하우 공유 
         - 캡스톤: ([38건](https://github.com/lab-lwc/20191_CapstoneDesign))
            - 1학기: [SCode, 코딩실습관리 시스템](https://github.com/BJ-Lim/Capstone_Design) 외 8건
-           - 2학기: [고소미, 악성 댓글 자동 수집 프로그램] (https://github.com/khk37601/capstone_design) 외 28건
+           - 2학기: [고소미, 악성 댓글 자동 수집 프로그램](https://github.com/khk37601/capstone_design) 외 28건
            
   - [오픈소스 SW 세미나 진행](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io/blob/master/Sub_menu/ossSeminar.md):
      - 2018년 10회 (일반 세미나 7회 + KossLab 세미나 3회)
