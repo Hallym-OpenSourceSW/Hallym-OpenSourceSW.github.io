@@ -66,6 +66,66 @@
     - 9조
       * 프로젝트명 : CARE16
       * https://github.com/orchidKim/capstone_2019
+      
+    - Health Hallym
+      * 프로젝트명 : Health Hallym
+      * 주제: 한림대학교 헬스케어 앱/web 프로젝트
+      * https://github.com/gyungjja/Capstone_Application
+    
+    - 4D 55 53 43 4C 45
+      * 프로젝트명 : 4D 55 53 43 4C 45
+      * 주제 : 영상인식을 활용한 운동영상 분석  및 홈 트레이닝 프로그램 개발
+      * https://github.com/JoonBeomLee/2019BCapst
+      
+    - 뭐먹
+      * 프로젝트명 : 뭐먹
+      * 주제 : 결식아동을 위한 웹, 앱 서비스 
+      * https://github.com/426Hyun/CapstoneD
+      
+    - P+
+      * 프로젝트명 : P+
+      * 주제 : 이미지 딥러닝과 메타데이터를 이용한 유사한 장소 추천 서비스
+      * https://github.com/loveKSHS2/similar_site_recommendation
+
+    - 전신주
+      * 프로젝트명 : 딥러닝 기반 챗봇
+      * https://github.com/telegraph-pole/project 
+      
+    - 다리튼튼
+      * 프로젝트명 : 다리 튼튼 프로젝트
+      * https://github.com/f1234b/CapStone 
+
+    - 고소미
+      * 프로젝트명 : 고소미
+      * 주제 : 악성 댓글 자동 수집 프로그램
+      * https://github.com/khk37601/capstone_design
+      
+    - Hallym Smart Assistant
+      * 프로젝트명 : Hallym Smart Assistant
+      * 주제 : 한림대학교 질문/답변 챗봇 구성
+      * https://github.com/JeongMyeong/Capstone-Design-6-
+      
+    - 5조
+      * 프로젝트명 : 스마트 CCTV
+      * 주제 : 딥러닝을 이용한 유동인구 분석 스마트 CCTV
+      * https://github.com/jeongroseok/smart-cctv
+      
+    - 김정희
+      * 프로젝트명 : 강원 사이클 빌리지
+      * 주제 : 강원 사이클 빌리지(Gangwon Cycle Village) - 양구군편
+      * https://github.com/Kim-jeonghee/Gangwon-Cycle-Village 
+
+    - 춘천모아
+      * 프로젝트명 : 춘천 알리미 챗봇
+      * 주제 : 춘천에 대한 정보 제공 프로그램
+      * https://github.com/gitaekahn
+      
+    - 한고은
+      * 프로젝트명 : 한림어플
+      * https://github.com/mseng18/Hallym
+      
+      
+      
 
 *  *  *
 *  *  *
