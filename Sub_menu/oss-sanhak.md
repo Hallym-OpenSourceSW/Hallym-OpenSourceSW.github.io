@@ -1,7 +1,7 @@
 ## 오픈소스 SW를 활용한 산학 프로젝트
 
 
- * 2019년: 산학 프로젝트 및 캡스톤 ! (5 + 9 = 14)
+ * 2019년: 산학 프로젝트 및 캡스톤 ! (5 + 9 + 29 = 43)
  
  1. 산학 과제를 통한 오픈소스 SW 프로젝트
     - 오픈소스 중심의 2019년 선정 산학협력 프로젝트   (5건)
@@ -56,6 +56,16 @@
       * 프로젝트명 : Club Management
       * 주제 : 동아리 관리 안드로이드 어플리케이션 구축
       * https://github.com/JeongGyunMo/Capstone-Design
+      
+ *  *  *
+ 3. 빅데이터 캡스톤을 통한 오픈소스 SW 프로젝트 (2학기 14건)
+    - 꼬부기
+      * 프로젝트명 : 이디스 프로젝트
+      * https://github.com/SiHongSeong
+    
+    - 9조
+      * 프로젝트명 : CARE16
+      * https://github.com/orchidKim/capstone_2019
 
 *  *  *
 *  *  *
