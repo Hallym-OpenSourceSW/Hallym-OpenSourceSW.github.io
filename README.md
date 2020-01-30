@@ -17,8 +17,8 @@
         - 2019년 1건 (컴퓨터 구조 세미나)
      - 오픈소스 SW 활용 및 기여를 위한 대학원 산학 프로젝트 진행
         - [Face Identification](https://github.com/jeonggunlee/faceid), 참여회사- 지오멕스소프트  
-        - [People Counting] 참여회사 - 프론트유
-        - [자동차 네트워크 CAN Fuzzing], 참여회사-현대NGV
+        - People Counting, 참여회사 - 프론트유
+        - 자동차 네트워크 CAN Fuzzing, 참여회사-현대NGV
      
   - [오픈소스 SW 교육 및 기여 장려를 위한 오픈소스SW 활동 교수 업적화](./Sub_menu/rule.md): (규정 개정: 2018년 12월)
 
