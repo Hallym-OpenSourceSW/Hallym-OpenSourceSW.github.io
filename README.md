@@ -82,8 +82,8 @@
      - 12팀 총 51 (2018)
      - 2019년 (3건 기획)
         - 5월 소프트웨어숲: [오픈소스SW Boot Camp](https://github.com/Hallym-OpenSourceSW/HL_Contributhon)
-        - Git day 해커톤 진행 예정
-        - 알고리즘 구현 해커톤 진행 예정
+        - Git day 해커톤 
+        - 알고리즘 구현 해커톤
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](./Sub_menu/sw_contest.md)"** 진행
      - 38팀 참여 (2018)
      - 67팀 참여 (2019)
