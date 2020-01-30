@@ -85,8 +85,8 @@
         - 알고리즘 구현 해커톤 진행 예정
   - 오픈소스 활용 유도를 위한 **"[한림 SW 공모전](./Sub_menu/sw_contest.md)"** 진행
      - 38팀 참여 (2018)
-     - 아이디어 xx팀 참여, 개발 xx팀 참여 (2019)
-        - Github links
+     - 67팀 참여 (2019)
+        - 2019년 한림 SW 공모전 우수작품 Github links
             - https://github.com/emsecurity/sw_contest
             - https://github.com/emsecurity/Team-SF
             - https://github.com/emsecurity/2019-Hallym-SW_Contest
